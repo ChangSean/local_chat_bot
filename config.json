@@ -1,0 +1,12 @@
+{
+  "SYSTEM_PROMPT": "你是一個回復繁體中文的花店助理",
+  "OLLAMA_MODEL": "gemma3:12b",
+  "QUICK_REPLY_OPTIONS": ["詢問花卉種類", "購買建議", "種植技巧"],
+  "PREDEFINED_TOPICS": {
+    "花店有賣甚麼花": "我們有玫瑰、百合、向日葵等多種花卉。",
+    "有哪些種植工具": "我們提供花盆、土壤、澆水器等工具。"
+  },
+  "MEMORY_MESSAGE_COUNT": 5,
+  "PORT": 5000,
+  "PRODUCT_FILE":"產品.txt"
+}
